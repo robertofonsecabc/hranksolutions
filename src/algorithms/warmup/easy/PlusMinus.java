@@ -1,3 +1,5 @@
+package algorithms.warmup.easy;
+
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.text.DecimalFormat;
